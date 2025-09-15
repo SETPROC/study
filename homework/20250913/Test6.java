@@ -12,8 +12,6 @@ public class Test6 {
 			return "C";
 		else if(n>=60)
 			return "D";
-		else if(n>=55)
-			return "E";
 		else
 			return "F";
 	}
